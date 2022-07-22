@@ -5,10 +5,8 @@ Repozytorium zawiera program obsługujący układ elektroniczny zaprojektowany w
 Projekt wykonywany był w grupie dwuosobowej.
 
 Nagrania przedstawiające przykładowy poprawny cykl pracy układu można znaleźć pod
-wskazanymi adresami (zalecane jest ustawienie wysokiej jakości obrazu)
+wskazanymi adresami (zalecane jest ustawienie wysokiej jakości obrazu z powodu uszkodzonego podświetlenia)  
 a) Poprawne podanie kombinacji
-https://drive.google.com/file/d/1zJMMjE-wq6GwCaH94NiUB0uY9xJXNgDs/view?usp=
-sharing
-b) Niepoprawne podanie kombinacji
-https://drive.google.com/file/d/1mRVWrHHAmeexanw8YAMwXjTHNmtYrwhV/view?usp=
-sharing
+https://drive.google.com/file/d/1zJMMjE-wq6GwCaH94NiUB0uY9xJXNgDs/view?usp=sharing  
+b) Niepoprawne podanie kombinacji  
+https://drive.google.com/file/d/1mRVWrHHAmeexanw8YAMwXjTHNmtYrwhV/view?usp=sharing
